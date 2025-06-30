@@ -3,6 +3,7 @@ compatibility_date = "2025-06-30"
 
 [build]
 command = ""
+command = "npm run build"
 [build.upload]
 format = "modules"
 main = "./_worker.js"
